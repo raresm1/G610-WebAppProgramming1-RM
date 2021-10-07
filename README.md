@@ -1,8 +1,3 @@
 # G610-WebAppProgramming1-RM
 This is a public repo for my Web App Programing course. >)
-
-
-stagedsfsdfd
-
-test 3
-test 4
+x
